@@ -1,0 +1,12 @@
+{
+  "name": "blog-api",
+  "version": "1.0.0",
+  "description": "RESTful API for a blogging platform",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
